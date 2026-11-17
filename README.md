@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Amer Bella 👋
 
-<!--
-**oklh87/oklh87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Second-year Engineering Student | Finance & Actuarial Engineering (IFA)**  
+Faculty of Sciences and Technology, Errachidia, Morocco
 
-Here are some ideas to get you started:
+I'm interested in **quantitative finance, actuarial science, statistics, and data science**. I'm developing practical skills in mathematical modeling and programming, with a focus on applying them to financial and insurance problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas I'm exploring
+
+- **Quantitative finance:** financial time series, portfolio analytics, and market risk
+- **Actuarial science:** survival models, life insurance mathematics, and risk modeling
+- **Data science:** statistical analysis, machine learning, and reproducible workflows
+
+## Technical toolkit
+
+**Programming & data:** Python, SQL  
+**Python ecosystem:** pandas, NumPy, scikit-learn  
+**Mathematics:** probability, statistics, econometrics, stochastic processes
+
+> This list reflects my learning focus; project repositories provide evidence of hands-on work.
+
+## Projects
+
+- [Mobile Price Prediction](https://github.com/oklh87/mobile-price-prediction) — a machine-learning project to review and document further.
+- **Financial Time Series Analysis** — planned project: explore returns, trends, and volatility with Python.
+- **Market Risk Modeling** — planned project: estimate Value at Risk and Expected Shortfall.
+
+## Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/amer-bella-995645264/)
+- [GitHub](https://github.com/oklh87)
+
+*Open to learning, collaboration, and internship opportunities in quantitative finance, actuarial science, and data analytics.*
